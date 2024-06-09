@@ -30,3 +30,10 @@ curl --request POST \
   --form username=fox
 
 ![image-20240609224316433](https://github.com/yuezu1026/kong/blob/main/images/image-20240609224316433.png)
+
+
+
+![image-20240609224500175](https://github.com/yuezu1026/kong/blob/main/images/image-20240609224500175.png)
+
+
+
