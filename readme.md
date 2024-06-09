@@ -6,16 +6,5 @@ curl --request POST \
   --header 'Content-Type: multipart/form-data' \
   --form name=jwt
 
+![用insomnia执行](https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png)
 
-
-https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png
-
-
-
-
-
-
-
-
-
-![image-20240609220000370](https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png)
