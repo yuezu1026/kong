@@ -8,4 +8,14 @@ curl --request POST \
 
 
 
-![image-20240609220000370](C:\project-hsbc\kong\kong\images\image-20240609220000370.png)
+https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png
+
+
+
+
+
+
+
+
+
+![image-20240609220000370](https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png)
