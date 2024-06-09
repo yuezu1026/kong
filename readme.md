@@ -8,3 +8,9 @@ curl --request POST \
 
 ![用insomnia执行](https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png)
 
+
+
+
+
+![image-20240609221300421](https://github.com/yuezu1026/kong/blob/main/images/image-20240609221300421.png)
+
