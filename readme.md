@@ -9,19 +9,19 @@ curl --request POST \
   --form name=jwt
 ```
 
+> https://raw.githubusercontent.com/yuezu1026/kong/main
 
-
-![用insomnia执行](https://github.com/yuezu1026/kong/blob/main/images/image-20240609220000370.png)
-
-
-
-
-
-![image-20240609221300421](https://github.com/yuezu1026/kong/blob/main/images/image-20240609221300421.png)
+![用insomnia执行](https://raw.githubusercontent.com/yuezu1026/kong/main/images/image-20240609220000370.png)
 
 
 
-![image-20240609221500634](https://github.com/yuezu1026/kong/blob/main/images/image-20240609221500634.png)
+
+
+![image-20240609221300421](https://raw.githubusercontent.com/yuezu1026/kong/main/images/image-20240609221300421.png)
+
+
+
+![image-20240609221500634](https://raw.githubusercontent.com/yuezu1026/kong/main/images/image-20240609221500634.png)
 
 
 
@@ -38,11 +38,11 @@ curl --request POST \
 
 
 
-![image-20240609224316433](https://github.com/yuezu1026/kong/blob/main/images/image-20240609224316433.png)
+![image-20240609224316433](https://raw.githubusercontent.com/yuezu1026/kong/main/images/image-20240609224316433.png)
 
 
 
-![image-20240609224500175](https://github.com/yuezu1026/kong/blob/main/images/image-20240609224500175.png)
+![image-20240609224500175](https://raw.githubusercontent.com/yuezu1026/kong/main/images/image-20240609224500175.png)
 
 
 
